@@ -1,5 +1,5 @@
 # Project Name
-TARGET = Blink
+TARGET = Determinations
 
 # Configure for debugging
 # common configurations:
